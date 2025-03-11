@@ -10,7 +10,7 @@
 - Member 2: Shyma Zuhra - Government Engineering College,Kozhikode
 - Member 3: Siyana K - Government Engineering College,Kozhikode
 ### Hosted Project Link
-[mention your project hosted project link here]
+ https://rifnashirin.github.io/Tinker-Bus/
 
 ### Project Description
 Welcome to BusChetta – Your Go-To Website for Bus Timings
@@ -37,14 +37,6 @@ For Software:
 - HTML
 - CSS
 - JavaScript
-
-
-
-### Implementation
-To view click : https://rifnashirin.github.io/Tinker-Bus/
-
-
-
 
 
 ---
